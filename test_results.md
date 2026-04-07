@@ -5,21 +5,21 @@ TravelBuddy – Trợ lý Du lịch Thông minh
       Gõ 'quit' để thoát
 ============================================================
 
-Bạn: Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
+# Bạn: Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
 
 TravelBuddy đang suy nghĩ...
 --- Trả lời trực tiếp
 
 TravelBuddy: Chào bạn! Bạn đang có kế hoạch đi du lịch ở đâu và khi nào? Hãy cho mình biết thông tin cụ thể để mình có thể giúp bạn tìm chuyến bay và khách sạn phù hợp nha!
 
-Bạn: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng              
+# Bạn: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng              
 
 TravelBuddy đang suy nghĩ...
 --- Trả lời trực tiếp
 
 TravelBuddy: Bạn có thể cho tôi biết ngày đi của bạn là khi nào không? Và ngân sách của bạn cho vé máy bay khoảng bao nhiêu?
 
-Bạn: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
+# Bạn: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
 
 TravelBuddy đang suy nghĩ...
 --- Gọi tool: search_flights({'origin': 'Hà Nội', 'destination': 'Phú Quốc'})
@@ -50,7 +50,7 @@ TravelBuddy: Dưới đây là gợi ý chuyến đi của bạn từ Hà Nội 
 
 Nếu bạn cần thêm thông tin hoặc giúp đỡ gì khác, cứ cho mình biết nhé!
 
-Bạn: Tôi muốn đặt khách sạn
+# Bạn: Tôi muốn đặt khách sạn
 
 TravelBuddy đang suy nghĩ...
 --- Trả lời trực tiếp
@@ -63,7 +63,7 @@ TravelBuddy: Chắc chắn rồi! Bạn có thể cho mình biết một số th
 
 Khi có đủ thông tin này, mình sẽ giúp bạn tìm khách sạn phù hợp! 🌟
 
-Bạn: Giải giúp tôi bài tập lập trình Python về linked list
+# Bạn: Giải giúp tôi bài tập lập trình Python về linked list
 
 TravelBuddy đang suy nghĩ...
 --- Trả lời trực tiếp
