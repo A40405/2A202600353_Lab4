@@ -1,8 +1,10 @@
-# 
-(ai_gpu) D:\AI_thucchien\assignments-main\day4\lab4_agent>python ./agent.py    
+# python ./agent.py    
+
 ============================================================
-TravelBuddy – Trợ lý Du lịch Thông minh
-      Gõ 'quit' để thoát
+
+TravelBuddy - TRỢ LÝ DU LỊCH THÔNG MINH (Lab 4)
+Nhập 'exit', 'thoát', 'quit' hoặc nhấn Ctrl+C để dừng.
+
 ============================================================
 
 # Bạn: Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu.
@@ -70,4 +72,4 @@ TravelBuddy đang suy nghĩ...
 
 TravelBuddy: Mình xin lỗi, nhưng mình không thể hỗ trợ bạn về lập trình Python hay các bài tập liên quan. Tuy nhiên, nếu bạn cần tìm hiểu về du lịch, mình rất vui lòng giúp bạn! Bạn định đi đâu, và có ngân sách hay thời gian cụ thể nào không?
 
-Bạn:
+# Bạn:
