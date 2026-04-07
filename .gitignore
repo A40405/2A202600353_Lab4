@@ -1,0 +1,18 @@
+# --- OS Metadata ---
+.DS_Store
+Thumbs.db
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+.env
+
+.vscode/
+.idea/
